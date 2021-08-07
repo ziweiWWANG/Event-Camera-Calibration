@@ -23,7 +23,7 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 	booktitle     = {Australasian Conf. Robot. Autom. (ACRA)},
 	year          = 2019
 }
-<pre>
+</pre>
 
 ##Event Camera Dataset
 -----------------
