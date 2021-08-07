@@ -15,6 +15,7 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 [https://arxiv.org/pdf/2012.09378.pdf](https://arxiv.org/pdf/2012.09378.pdf)
 
 ## Citation
+<pre>
 @InProceedings{wang19acra,
 	author        = {Wang, Ziwei and Ng, Yonhon and van Goor, Pieter and Mahony, Robert},
 	title         = {Event Camera Calibration of Per-pixel Biased Contrast
@@ -22,7 +23,7 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 	booktitle     = {Australasian Conf. Robot. Autom. (ACRA)},
 	year          = 2019
 }
-
+<pre>
 
 ##Event Camera Dataset
 -----------------
