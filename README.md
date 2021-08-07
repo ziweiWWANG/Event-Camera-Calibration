@@ -30,4 +30,4 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 Bright Grass: https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX
 
 ## Notes 
-1. If you have any questions regarding this code and the corresponding results, please contact ziwei.wang1@anu.edu.au
+1. If you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
