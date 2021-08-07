@@ -9,7 +9,7 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 
 ## Publications
 ### ACRA 2019 conference version
-[https://openresearch-repository.anu.edu.au/bitstream/1885/241072/1/2012.09378.pdf](https://openresearch-repository.anu.edu.au/bitstream/1885/241072/1/2012.09378.pdf)
+[https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf)
 
 ### arXiv verison
 [https://arxiv.org/pdf/2012.09378.pdf](https://arxiv.org/pdf/2012.09378.pdf)
