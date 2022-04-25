@@ -15,6 +15,7 @@ The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2
 [https://arxiv.org/pdf/2012.09378.pdf](https://arxiv.org/pdf/2012.09378.pdf)
 
 ## Citation
+If you use or discuss our paper, please cite as follows:
 <pre>
 @InProceedings{wang19acra,
 	author        = {Wang, Ziwei and Ng, Yonhon and van Goor, Pieter and Mahony, Robert},
