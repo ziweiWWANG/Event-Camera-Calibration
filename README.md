@@ -5,13 +5,10 @@ Event cameras output asynchronous events to represent intensity changes with a h
 Ziwei Wang, Yonhon Ng, Pieter van Goor, Robert Mahony
 
 The paper was accepted by the Australasian Conf. Robotics and Automation (ACRA 2019) in Adelaide, Australia.
+[[Paper]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf)
+[[arXiv]](https://arxiv.org/pdf/2012.09378.pdf](https://arxiv.org/pdf/2012.09378.pdf)
+[[Data]](https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX)
 
-## Publications
-### ACRA 2019 conference version
-[https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf)
-
-### arXiv verison
-[https://arxiv.org/pdf/2012.09378.pdf](https://arxiv.org/pdf/2012.09378.pdf)
 
 ## Citation
 If you use or discuss our paper, please cite as follows:
@@ -26,10 +23,8 @@ If you use or discuss our paper, please cite as follows:
 </pre>
 
 ## Event Camera Dataset
------------------
-[Bright Grass](https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX)
-
-[Mueggler et al., IJRR 2017](https://rpg.ifi.uzh.ch/davis_data.html)
+[[Bright Grass]](https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX)
+[[Mueggler et al., IJRR 2017]](https://rpg.ifi.uzh.ch/davis_data.html)
 
 ## Notes 
-1. If you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
+Should you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
