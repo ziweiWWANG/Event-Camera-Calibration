@@ -20,7 +20,7 @@ If you use or discuss our paper, please cite as follows:
 	author        = {Wang, Ziwei and Ng, Yonhon and van Goor, Pieter and Mahony, Robert},
 	title         = {Event Camera Calibration of Per-pixel Biased Contrast
 	Threshold},
-	booktitle     = {Australasian Conference of Robotics and Automation. (ACRA)},
+	booktitle     = {Australasian Conference of Robotics and Automation (ACRA)},
 	year          = 2019
 }
 </pre>
