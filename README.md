@@ -27,7 +27,9 @@ If you use or discuss our paper, please cite as follows:
 
 ## Event Camera Dataset
 -----------------
-Bright Grass: https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX
+[Bright Grass](https://drive.google.com/open?id=1bLCdxPQaF22B4HsMnu9JWbNS6y2ORbEX)
+
+[Mueggler et al., IJRR 2017](https://rpg.ifi.uzh.ch/davis_data.html)
 
 ## Notes 
 1. If you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
