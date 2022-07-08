@@ -34,4 +34,6 @@ If you use or discuss our paper, please cite as follows:
 [[Mueggler et al., IJRR 2017]](https://rpg.ifi.uzh.ch/davis_data.html)
 
 ## Notes 
-Should you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
+1. [Brandliet al., 2014] Christian Brandli, Lorenz Muller,and Tobi Delbruck.  Real-time,  high-speed video de-compression using a frame-and event-based davis sensor.  In2014  IEEE  International  Symposium  on  Cir-cuits  and  Systems  (ISCAS),  pages  686–689.  IEEE,2014.
+2. Should you have any questions regarding this paper, please contact ziwei.wang1@anu.edu.au
+
